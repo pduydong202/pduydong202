@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🎓 I'm **Dong**, a Computer Science and Artificial Intelligence graduate. 
+🤖 I am deeply passionate about **AI Engineering**, with a strong focus on 👁️ Computer Vision, 🧠 Deep Learning, and ⚡ Edge Computing architectures. 
+🚀 I love building practical AI solutions and am always eager to apply my skills to real-world challenges.
 <!--
 **pduydong202/pduydong202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
